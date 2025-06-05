@@ -16,7 +16,7 @@ A modern full-stack application starter built with React Router v7, DrizzleORM, 
 
 - Node.js (v18+)
 - pnpm
-- PostgreSQL database
+- SQLite database (this setup creates a filebase sqlite db when you apply migrations)
 
 ### Installation
 
